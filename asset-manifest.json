@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ariel-portfolio/static/css/main.c2452ec7.css",
+    "main.js": "/ariel-portfolio/static/js/main.0294432d.js",
+    "index.html": "/ariel-portfolio/index.html",
+    "main.c2452ec7.css.map": "/ariel-portfolio/static/css/main.c2452ec7.css.map",
+    "main.0294432d.js.map": "/ariel-portfolio/static/js/main.0294432d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2452ec7.css",
+    "static/js/main.0294432d.js"
+  ]
+}
